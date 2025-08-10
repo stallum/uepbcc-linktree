@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Site do Curso",
             description: "Acesso as principais informações do curso",
             url: "https://sites.google.com/setor.uepb.edu.br/computacao-uepb-campusi/p%C3%A1gina-inicial?authuser=0",
-            iconColor: "#3498db",
+            iconColor: "#b70f32",
             iconText: "SC"
         },
         {
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Fluxograma do Curso",
             description: "Registro e acompanhamento das matérias do Curso",
             url: "https://sites.google.com/setor.uepb.edu.br/computacao-uepb-campusi/fluxograma-do-curso?authuser=0",
-            iconColor: "#27ae60",
+            iconColor: "#FF715B",
             iconText: "FC"
         },
         {
@@ -31,6 +31,30 @@ document.addEventListener('DOMContentLoaded', function() {
             url: "https://suap.uepb.edu.br/",
             iconColor: "#9b59b6",
             iconText: "PA"
+        },
+        {
+            id: 5,
+            title: "Grupo Feras",
+            description: "Grupo dos feras computação 2025.2",
+            url: "https://chat.whatsapp.com/BTN2JZqPDZYJ76lsQKozhg",
+            iconColor: "#24c464",
+            iconText: "WA"
+        },
+        {
+            id: 6,
+            title: "Grupo Telegram Computação",
+            description: "Grupo do telegram de computação",
+            url: "https://t.me/+OmR1fzcJXSoxZDkx",
+            iconColor: "#2F52E0",
+            iconText: "GT"
+        },
+        {
+            id: 7,
+            title: "Regimento Acadêmico",
+            description: "Esse é o regimento de graduação da UEPB. Leia-o",
+            url: "https://uepb.edu.br/prograd/ensino/regimento-dos-cursos-de-graduacao-da-uepb/",
+            iconColor: "#c00404",
+            iconText: "RA"
         }
     ];
 
